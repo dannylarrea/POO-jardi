@@ -185,11 +185,9 @@ estigui lliure.
 Aquesta classe iniciarà el programa seguint les següent directrius:
 
 Es plantaran almenys una planta *Altibus* i una planta *Declinus* a un jardí.
-Aleshores, es farà passar el temps mitjançant un buttó o enllaç, es mostrarà el jardí i s'esperarà que
-l'usuari clique un altra buttó o enllaç per finalitzar.
+Aleshores, es farà passar el temps mitjançant un botó o enllaç, es mostrarà el jardí i s'esperarà que l'usuari cliqui un altre botó o enllaç per finalitzar.
 
-Si es clica el finalitzar s'acabarà el programa. En cas contrari, es farà
-passar més temps i es tornarà a mostrar el jardí, etc.
+Si es clica en finalitzar finalitzarà el programa. En cas contrari, es farà passar més temps i es tornarà a mostrar el jardí, etc.
 
 ### Optatiu
 
